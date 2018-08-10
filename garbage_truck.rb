@@ -8,6 +8,7 @@
     true
   end
 end
+<<<<<<< HEAD
 
 def position_taken?(board, index)
     if board[index] == "" || "" || "nil"
@@ -16,3 +17,5 @@ def position_taken?(board, index)
   true
   end
 end
+=======
+>>>>>>> abf0c56ac8cad92876ef5e05c19c23930b2fb4ed
